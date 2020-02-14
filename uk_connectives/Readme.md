@@ -2,6 +2,8 @@
 
 1. Determine whether the given candidate word (or phrase) is a connective:
 
+(Note: There are also some Russian tokens in the list of candidates, based on wrongly aligned material in the underlying corpora. Please just exclude any non-Ukrainian words.)
+
 - it is a fixed (closed class) expression that cannot be modified or conjugated
 - it semantically relates to arguments
 - the arguments are "abstract objects" (propositions, facts, events, ...)
