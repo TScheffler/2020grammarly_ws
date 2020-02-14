@@ -1,0 +1,114 @@
+after	після
+after	после
+also	також
+also	также
+also	теж
+although	хотя
+although	хоча
+and	і
+and	и
+and	та
+and	а
+as	як
+as	как
+because	потому
+because	бо
+because	тому
+before	перед
+before	раньше
+before	раніше
+before	до того
+before	прежде
+besides	кроме
+besides	окрім
+besides	помимо
+besides	крім
+but	но
+but	але
+earlier	ранее
+earlier	раніше
+earlier	раньше
+else	еще
+else	ещё
+else	інше
+else	ще
+except	крім
+except	кроме
+except	окрім
+except	винятком
+finally	нарешті
+finally	наконец
+finally	Нарешті
+for example	наприклад
+for example	например
+for instance	наприклад
+for	для
+for	за
+for	на
+further	дальнейших
+further	далі
+hence	СЛЕДОВАТЕЛЬНО
+if	если
+if	якщо
+if	якби
+in fact	фактично
+in the end	зрештою
+in the end	вінець
+instead	вместо
+instead	замість
+instead	натомість
+later	пізніше
+later	позже
+meantime	же время
+meantime	временем
+next	наступного
+next	следующий
+next	наступний
+next	следующей
+nonetheless	тем не менее
+nor	ані
+once	раз
+once	разу
+once	колись
+once	однажды
+or	или
+or	або
+or	чи
+otherwise	інакше
+plus	плюс
+previously	ранее
+regardless	незалежно
+separately	окремо
+separately	отдельно
+simultaneously	одночасно
+since	пор
+so	так
+specifically	точніше
+specifically	спеціально
+specifically	конкретно
+still	досі
+still	еще
+still	ще
+still	ещё
+then	потім
+then	потом
+then	тоді
+then	тогда
+then	затем
+thereby	тим самим
+though	хоча
+though	хотя
+thus	таким чином
+till	пока
+till	поки
+till	доки
+ultimately	зрештою
+ultimately	итоге
+until	пока
+until	поки
+until	доки
+when	коли
+when	когда
+while	пока
+while	поки
+while	время
