@@ -1,4 +1,4 @@
-# Group task: Creating an initial lexicon of Ukranian connectives
+# Group task: Creating an initial lexicon of Ukrainian connectives
 
 1. Determine whether the given candidate word (or phrase) is a connective:
 
