@@ -20,7 +20,7 @@ slides
 
 *In-class exercise*: What is a connective? [Identifying connectives in Ukranian](uk_connectives/)
 
-PDTB exploration
+[PDTB exploration](pdtb_exploration/)
 
 ## Part 2: Shallow discourse parsing
 
