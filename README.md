@@ -12,5 +12,22 @@
 
 ## Part 1: The theory of shallow discourse structure
 
+### Theory of discourse coherence
+
+slides
+
+### Discourse Annotations
+
+*In-class exercise*: What is a connective? [Identifying connectives in Ukranian](uk_connectives/)
+
+PDTB exploration
 
 ## Part 2: Shallow discourse parsing
+
+### Introduction to shallow discourse parsing
+
+Error analysis on existing parsers
+
+### Implementing a discourse parser
+
+Modify/play around with a connective detection module
