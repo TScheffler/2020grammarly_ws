@@ -1,22 +1,35 @@
 # Group task: Creating an initial lexicon of Ukrainian connectives
 
 1. Determine whether the given candidate word (or phrase) is a connective:
-
-(Note: There are also some Russian tokens in the list of candidates, based on wrongly aligned material in the underlying corpora. Please just exclude any non-Ukrainian words.)
-
-- it is a fixed (closed class) expression that cannot be modified or conjugated
-- it semantically relates to arguments
-- the arguments are "abstract objects" (propositions, facts, events, ...)
-- the arguments are in principle expressible as clauses
+   (Note: There are also some Russian tokens in the list of candidates, based on wrongly aligned material in the underlying corpora. Please just exclude any non-Ukrainian words.)
+   - it is a fixed (closed class) expression that cannot be modified or conjugated
+   - it semantically relates to arguments
+   - the arguments are "abstract objects" (propositions, facts, events, ...)
+   - the arguments are in principle expressible as clauses
 
 2. After determining the connectives (from 1.), group them into semantic classes:
-
-- temporal
-- contingency (causal + conditional)
-- contrast (contrast and similarity)
-- expansion (additive relations)
+   - temporal
+   - contingency (causal + conditional)
+   - contrast (contrast and similarity)
+   - expansion (additive relations)
 
 3. Group connectives by substitution tests: which connectives can replace each other in the examples?
+
+4. Determine the syntactic and semantic class of each connective and enter it in the Google sheet:
+   https://docs.google.com/spreadsheets/d/134_SxwVkoPpMlsyxZ2uThlaYBQ6rK0XxnmVpRKOjeNs/edit?usp=sharing
+
+   *syntactic categories:*
+   - coord_conj = coordinating conjunction
+   - subord_conj = subordinating conjunction
+   - adverb
+   - preposition = pre- or postposition
+   - other = other, for example phrasal connectives
+
+   *semantic senses:*
+
+   We use the simplified list of PDTB3 senses in [pdtb3-senses-simplified.txt](pdtb3-senses-simplified.txt).
+
+   For more information, see the [PDTB3 Annotation Manual](https://catalog.ldc.upenn.edu/docs/LDC2019T05/PDTB3-Annotation-Manual.pdf)
 
 ## Data
 
