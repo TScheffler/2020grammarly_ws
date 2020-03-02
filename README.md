@@ -28,7 +28,7 @@ Finally, we will be using the following dataset in two formats (passwords are di
 
 ### Theory of discourse coherence
 
-slides
+[slides](https://github.com/TScheffler/2020grammarly_ws/blob/master/disc-parsing-workshop-slides-compressed.pdf)
 
 ### Discourse Annotations
 
