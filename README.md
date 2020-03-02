@@ -40,8 +40,8 @@ slides
 
 ### Introduction to shallow discourse parsing
 
-Error analysis on existing parsers
+[Existing discourse parser implementations](https://github.com/TScheffler/2019ESSLLI-discparsing/tree/master/day3#existing-discourse-parsers-for-english)
 
 ### Implementing a discourse parser
 
-Modify/play around with a connective detection module
+Modify/play around with a connective detection module: [discopy](https://github.com/rknaebel/discopy)
